@@ -57,3 +57,4 @@ This project provides a step-by-step guide to set up a Continuous Integration an
 - `appspec.yml`: Manages the deployment lifecycle on EC2 instances.
 
 By following these steps and using the provided files, you can automate the building, testing, and deployment of your applications with AWS CI/CD.
+For any info contact me through my mail.
